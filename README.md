@@ -4,7 +4,7 @@
 
 This project aims to develop a robust machine learning-inspired scoring mechanism to assess the creditworthiness of wallets interacting with the Aave V2 DeFi protocol. It uses only historical on-chain transaction behavior to assign a credit score between **0 and 1000**, where higher scores indicate responsible usage and lower scores may suggest exploitative or bot-like activity.
 
----
+
 
 ## Project Structure
 
@@ -18,7 +18,7 @@ credit-score-model/
 └── analysis.md                     # Score distribution insights
 ```
 
----
+
 
 ## Methodology
 
