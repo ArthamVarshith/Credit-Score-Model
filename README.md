@@ -10,7 +10,6 @@ This project aims to develop a robust machine learning-inspired scoring mechanis
 
 ```
 credit-score-model/
-├── user-wallet-transactions.json   # Input dataset
 ├── wallet_scores.csv               # Output scores
 ├── score_distribution.png          # Score distribution graph
 ├── credit_score.py                 # Main script
