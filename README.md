@@ -61,5 +61,3 @@ A custom scoring algorithm is applied (0–1000 range):
 
 * Scores are saved to `wallet_scores.csv`
 * Score distribution is plotted in `score_distribution.png`
-
----
